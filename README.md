@@ -1,6 +1,6 @@
 # 🎯 Jogo do Número Secreto
 
-Este projeto foi desenvolvido por mim, **Erica**, durante o curso da [Alura](https://www.alura.com.br/) como parte da minha jornada de aprendizado em JavaScript. O objetivo é adivinhar o número secreto entre 1 e 10 com base em dicas que aparecem na tela.
+Este projeto foi desenvolvido por mim, **Erica**, durante o curso da [Alura](https://www.alura.com.br/) como parte da minha jornada de aprendizado em JavaScript e Lógica de Programação. O objetivo é adivinhar o número secreto entre 1 e 10 com base em dicas que aparecem na tela.
 
 ## 🚀 Funcionalidades
 
